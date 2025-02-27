@@ -1,9 +1,0 @@
-plugins {
-    id 'java-platform'
-}
-
-dependencies {
-    constraints {
-        api libs.protobuf.java
-    }
-}
